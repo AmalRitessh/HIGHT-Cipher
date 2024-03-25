@@ -15,14 +15,21 @@
 
 Mentor: Mr. Saurabh Shrivastava, Dr. Lakshmy K V
 
-### Background
-
-
-
 ### Deliverables
 - [User Interface](https://amalritessh.github.io/HIGHT-Cipher/)
 - [FAQ]()
 
+### Screenshots
+#### Classic : 
+![image](https://github.com/AmalRitessh/HIGHT-Cipher/blob/main/screenshots/Classic.png)
+#### Hight ECB :
+![image](https://github.com/AmalRitessh/HIGHT-Cipher/blob/main/screenshots/Hight%20ECB.png) 
+#### Hight CBC :
+![image](https://github.com/AmalRitessh/HIGHT-Cipher/blob/main/screenshots/Hight%20CBC.png) 
+#### Plaintext ECB :
+![image](https://github.com/AmalRitessh/HIGHT-Cipher/blob/main/screenshots/Plaintext%20ECB.png) 
+#### Plaintext CBC :
+![image](https://github.com/AmalRitessh/HIGHT-Cipher/blob/main/screenshots/Plaintext%20CBC.png)
 
 #### References
 - [The HIGHT Encryption Algorithm](https://datatracker.ietf.org/doc/html/draft-kisa-hight-00)
